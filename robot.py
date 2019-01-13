@@ -3,12 +3,11 @@
 import wpilib, magicbot
 
 
-
 class FROGbot(magicbot.MagicRobot):
     def createObjects(self):
         """ Method to set up all components """
         # Create DriveTrain
-        
+
         # Set up Joystick
         pass
 
